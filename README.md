@@ -1,6 +1,6 @@
 # Apigee-Toolkit
 
-The Apigee Toolkit is a curated set of collateral meant to do the following;
+The Apigee Toolkit is a collection of strategies that are working with other Apigee customers. It's meant to be generic. It's not the only way to do it, but it gives you a starting point if you need one. The purpose of the toolkit is to.
 
 - Ensure consistent information and strategies are used on customer engagements.
 - Create content that can be used to train customers.
@@ -17,4 +17,4 @@ The Apigee Toolkit is a curated set of collateral meant to do the following;
 
 “Checklists” - To ensure the customer is ready and we are as well a few checklists to use at specific points in the engagement to gauge customer readiness and to identify training needs either prior to or during an engagement.  
 
-If you want to contribute but don’t want to deal with taxonomy or format you can drop the items into the “Contribution Bucket” at the root folder.
+If you want to contribute but don’t want to deal with taxonomy or format you can drop the items into the “Contribution Bucket” at the root folder. # Please be sure to remove any customer names before sharing. #
