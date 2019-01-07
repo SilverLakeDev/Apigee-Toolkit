@@ -1,6 +1,6 @@
 # Apigee-Toolkit
 
-The Apigee Toolkit is a collection of strategies, tools, training resources, checklists that are working with other Apigee customers. It's meant to be generic. It's not the only way to do it, but it gives you a starting point if you need one. The purpose of the toolkit is to.
+The Apigee Toolkit is a collection of strategies, tools, training resources, checklists that are common to the Apigee community. It's meant to be generic. It's not the only way to do it, but it gives you a starting point if you need one. The purpose of the toolkit is to.
 
 - Ensure consistent information and strategies are used on customer engagements.
 - Create content that can be used to train customers.
